@@ -2,8 +2,6 @@
 Содержит выполненное задание на поиск  антифрода SBER
 
 
-Лучше всего выполнять код в google colab (https://colab.research.google.com/drive/1al--Um_e_WJ_W90qT8ybzqCoiC6GyLdb?usp=sharing)
-
 **Основные выводы**
 
 1. Данные были загружены и изучены на этапе EDA
